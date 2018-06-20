@@ -6,6 +6,7 @@ using namespace std;
 int main()
 
 {
+	//pisze tu komentarz z 14 pracy na zajenciach xD
 	Hangman h;
 	h.saveWord();
 	h.loadWord();

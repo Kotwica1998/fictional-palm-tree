@@ -1,7 +1,10 @@
 #include "Hangman.h"
 
 
+void Hangeman::FunkcjaLab14()
+{
 
+}
 Hangman::Hangman()
 {
 	loadWord();
